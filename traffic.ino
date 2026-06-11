@@ -858,26 +858,7 @@ else
   digitalWrite(Y4,LOW);
   digitalWrite(G4,HIGH);
   delay(1000);
-
-
-
-
-
-
   
 }
- 
-  
-  
-   
-
-
-
-
-
-
-
-
-
   
 }
