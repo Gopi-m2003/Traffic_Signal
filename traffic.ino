@@ -11,7 +11,6 @@
 #define Y4 3
 #define G4 2
  
-
 #define p1 A0
 #define p2 A1
 #define p3 A2
